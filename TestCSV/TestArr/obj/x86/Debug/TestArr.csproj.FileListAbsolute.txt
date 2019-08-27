@@ -1,0 +1,4 @@
+C:\测试项目\TestCSV\TestArr\bin\Debug\TestArr.exe
+C:\测试项目\TestCSV\TestArr\bin\Debug\TestArr.pdb
+C:\测试项目\TestCSV\TestArr\obj\x86\Debug\TestArr.exe
+C:\测试项目\TestCSV\TestArr\obj\x86\Debug\TestArr.pdb
